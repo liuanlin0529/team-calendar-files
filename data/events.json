@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "title": "天风固收·吕品",
+    "title": "\u5929\u98ce\u56fa\u6536\u00b7\u5415\u54c1",
     "description": "",
-    "event_type": "卖方路演",
+    "event_type": "\u5356\u65b9\u8def\u6f14",
     "start_at": "2026-05-22T16:00:00.000000",
     "end_at": "2026-05-22T17:00:00.000000",
-    "participant_name": "吕品",
-    "participant_org": "天风固收",
+    "participant_name": "\u5415\u54c1",
+    "participant_org": "\u5929\u98ce\u56fa\u6536",
     "color": "#9fbcdb",
     "notes": "",
     "attachment": "",
     "created_by": 1,
-    "creator_name": "刘安林"
+    "creator_name": "\u5218\u5b89\u6797"
   }
 ]
