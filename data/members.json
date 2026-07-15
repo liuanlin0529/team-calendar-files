@@ -1,32 +1,32 @@
 [
   {
     "id": 1,
-    "name": "刘安林",
+    "name": "\u5218\u5b89\u6797",
     "avatar_color": "#9fbcdb"
   },
   {
     "id": 2,
-    "name": "曹天姿",
+    "name": "\u66f9\u5929\u59ff",
     "avatar_color": "#bbaecc"
   },
   {
     "id": 3,
-    "name": "陈硕",
+    "name": "\u9648\u7855",
     "avatar_color": "#eecba8"
   },
   {
     "id": 4,
-    "name": "张子怡",
+    "name": "\u5f20\u5b50\u6021",
     "avatar_color": "#a6cbb5"
   },
   {
     "id": 5,
-    "name": "姚志锋",
+    "name": "\u59da\u5fd7\u950b",
     "avatar_color": "#ebd59a"
   },
   {
     "id": 6,
-    "name": "陈肃磊",
+    "name": "\u9648\u8083\u78ca",
     "avatar_color": "#e0a2a2"
   }
 ]
