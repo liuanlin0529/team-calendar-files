@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "刘安林",
+    "avatar_color": "#9fbcdb"
+  },
+  {
+    "id": 2,
+    "name": "曹天姿",
+    "avatar_color": "#bbaecc"
+  },
+  {
+    "id": 3,
+    "name": "陈硕",
+    "avatar_color": "#eecba8"
+  },
+  {
+    "id": 4,
+    "name": "张子怡",
+    "avatar_color": "#a6cbb5"
+  },
+  {
+    "id": 5,
+    "name": "姚志锋",
+    "avatar_color": "#ebd59a"
+  },
+  {
+    "id": 6,
+    "name": "陈肃磊",
+    "avatar_color": "#e0a2a2"
+  }
+]
