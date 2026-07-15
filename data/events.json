@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": 1,
+    "title": "天风固收吕品",
+    "description": "",
+    "event_type": "ROADSHOW",
+    "start_at": "2026-05-22T16:00:00.000000",
+    "end_at": "2026-05-22T17:00:00.000000",
+    "participant_name": "吕品",
+    "participant_org": "天风固收",
+    "color": "#9fbcdb",
+    "notes": "",
+    "attachment": "",
+    "created_by": 1
+  }
+]
